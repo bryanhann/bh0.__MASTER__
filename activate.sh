@@ -1,4 +1,3 @@
-bh0include  bh0.persist
 bh0include  bh0.zjot
 bh0include  bh0.vwrap
 bh0include  bh0.omzsh
