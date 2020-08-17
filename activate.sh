@@ -1,3 +1,4 @@
+bh0include  bh0.shell.config
 bh0include  bh0.vwrap
 bh0include  bh0.omzsh
 bh0include  bh0.exittrap
